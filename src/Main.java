@@ -4,5 +4,6 @@ public class Main {
         // B21 nnnn
         //;;;;
         // mac and windosws
+        System.out.println("lol");
     }
 }
